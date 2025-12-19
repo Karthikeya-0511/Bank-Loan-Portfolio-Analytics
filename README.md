@@ -131,7 +131,7 @@ This demonstrates strong <b>banking domain understanding</b> alongside technical
 <h2>🛠 Tools & Technologies Used</h2>
 <ul>
   <li>Python (Pandas, NumPy)</li>
-  <li>Jupyter Notebook</li>
+  <li>Google Colab</li>
   <li>Microsoft Excel</li>
   <li>Power BI</li>
   <li>Git & GitHub</li>
